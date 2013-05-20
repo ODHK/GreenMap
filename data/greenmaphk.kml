@@ -1,0 +1,5922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="dispose_company_plastic">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/plastic_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_org_food">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/food_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_org_furniture">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/furniture_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_org_elec">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/electronic_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_org_clothing">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/event_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="get_clothing">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/event_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_org_books">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/book_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="get_books">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/book_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_company_glass">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/glass_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_org_glass">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/glass_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_bin_clothing">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/clothes_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_bin_paper">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/paper_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_bin_metal">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/metal_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+    <Style id="dispose_bin_plastic">
+    <IconStyle>
+        <Icon>
+          <href>https://dl.dropboxusercontent.com/u/14106269/earthmap_icons/plastic_60.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+        <text>
+            $[info]
+        </text>
+      </BalloonStyle>
+    </Style>
+
+
+
+
+    <Placemark>
+      <name>Salvation Army</name>
+      <styleUrl>#get_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Salvation Army</p><p>Address: Shop A2 G/F Man Kwong Court 12F-12G Smithfield Road Kennedy Town</p><p>Phone: 2974 0882</p><p>Website: www.salvation.org.hk</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.128659,22.282366</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Oxfam</name>
+      <styleUrl>#get_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Oxfam</p><p>LG8 Jardine House 1 Connaught Plc Central</p><p>Phone: 2522 1765</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159072,22.28278</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Vintage HK</name>
+      <styleUrl>#get_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Vintage HK></p><p>G/F 57-59 Hollywood Road Central</p><p>Phone: 2545 9932</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152976,22.282991</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Select 18</name>
+      <styleUrl>#get_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Select 18</p><p>Shop A G/F Grandview Garden 18 Bridges Street Sheung Wan</p><p>Phone: 9127 3657</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15091,22.283616</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Book Attic</name>
+      <styleUrl>#get_books</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>The Book Attic</p><p>Cockloft 2 Elgin Street Central</p><p>Phone: 2259 3103</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152584,22.283021</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Flow</name>
+      <styleUrl>#get_books</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Flow</p><p>7/F 29 Hollywood Road Central</p><p>Website:www.facebook.com/flowbookshop</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153936,22.282207</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Forever and Again</name>
+      <styleUrl>#get_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Forever and Again</p><p>Address: 32 Wyndham Street Central</p><p>Date: 26/05/2013</p><p>Website: www.greensundays.org.uk</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15503,22.280062</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Forever and Again</name>
+      <styleUrl>#get_books</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Forever and Again</p><p>Address: 32 Wyndham Street Central</p><p>Date: 26/05/2013</p><p>Website: www.greensundays.org.uk</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15503,22.280062</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Green Drinks</name>
+      <styleUrl>#event</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Hong Kong Green Drinks</p><p>Address: 33 Wyndham Street Central</p><p>Date: 05/06/2013</p><p>Email: greendrinkshk@gmail.com</p><p>Website: www.meetup.com/hong-kong-green-drinks</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154902,22.280479</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Centre</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>The Centre</p><p>Address: 99 Queens Road Central Central</p> ]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154558,22.284609</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Centre</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>The Centre</p><p>Address: 99 Queens Road Central Central</p> ]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154558,22.284609</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Centre</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>The Centre</p><p>Address: 99 Queens Road Central Central</p> ]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154558,22.284609</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Cat Street Gallery</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>The Cat Street Gallery</p><p>Address: 222 Hollywood Road Sheung Wan</p> ]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147842,22.285542</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Cat Street Gallery</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>The Cat Street Gallery</p><p>Address: 222 Hollywood Road Sheung Wan</p> ]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147842,22.285542</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Cat Street Gallery</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>The Cat Street Gallery</p><p>Address: 222 Hollywood Road Sheung Wan</p> ]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147842,22.285542</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Virtuosity Big Ltd</name>
+      <styleUrl>#dispose_company_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Virtuosity Big Ltd</p><p>Address: 200 Hollywood Road Sheung Wan</p><p>Phone: 9024 1701</p> ]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147542,22.285562</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Virtuosity Big Ltd</name>
+      <styleUrl>#dispose_company_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Virtuosity Big Ltd</p><p>Address: 200 Hollywood Road Sheung Wan</p><p>Phone: 9024 1701</p> ]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147542,22.285562</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>BooksMart</name>
+      <styleUrl>#dispose_org_books</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>BooksMart</p><p>Address: Rm 1604 16/F Western Centre 48 Des Voeux Road West Sheung Wan</p><p>Email: booksmart@netvigator.com</p><p>Remark: Email them a list of your books before so they can tell you which ones they can take.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147756,22.285443</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>St. James Settlement</name>
+      <styleUrl>#dispose_org_food</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>St. James Settlement</p><p>Address: 85 Stone Nullah Lane Wan Chai</p><p>Phone: 2574 5201</p><p>Website: www.sjs.org.hk</p><p>Remark: Drop off canned or dry food which have an expiry date more than 8 weeks away.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.173806,22.273212</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>St. James Settlement</name>
+      <styleUrl>#dispose_org_elec</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>St. James Settlement</p><p>Address: 85 Stone Nullah Lane Wan Chai</p><p>Phone: 2574 5201</p><p>Website: www.sjs.org.hk</p><p>Remark: Drop off canned or dry food which have an expiry date more than 8 weeks away.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.173806,22.273212</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Remar Hong Kong</name>
+      <styleUrl>#dispose_org_furniture</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Remar Hong Kong</p><p>Address: 210 Ma Tin Tsuen Yuen Long</p><p>Phone: 3193 4919</p><p>Website: www.remarhongkong.com</p><p>Remark: A charity dedicated to helping drug addicts and the homeless. Call them to arrange a pick up.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.023924,22.439512</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Remar Hong Kong</name>
+      <styleUrl>#dispose_org_elec</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Remar Hong Kong</p><p>Address: 210 Ma Tin Tsuen Yuen Long</p><p>Phone: 3193 4919</p><p>Website: www.remarhongkong.com</p><p>Remark: A charity dedicated to helping drug addicts and the homeless. Call them to arrange a pick up.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.023924,22.439512</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Industrial Relations Institute</name>
+      <styleUrl>#dispose_org_furniture</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Industrial Relations Institute</p><p> Address: 1/F Block 8 267 Un Chau Street Cheung Sha Wan</p><p>Phone: 2729 7023</p><p>Website: www.iri.org.hk</p><p>Remark: Donated items are sold at a low-price and proceeds go to grassroots workers and low-income families. Free pick-up - just call ahead.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157948,22.336679</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Industrial Relations Institute</name>
+      <styleUrl>#dispose_org_elec</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Industrial Relations Institute</p><p> Address: 1/F Block 8 267 Un Chau Street Cheung Sha Wan</p><p>Phone: 2729 7023</p><p>Website: www.iri.org.hk</p><p>Remark: Donated items are sold at a low-price and proceeds go to grassroots workers and low-income families. Free pick-up - just call ahead.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157948,22.33658</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Industrial Relations Institute</name>
+      <styleUrl>#dispose_org_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Industrial Relations Institute</p><p> Address: 1/F Block 8 267 Un Chau Street Cheung Sha Wan</p><p>Phone: 2729 7023</p><p>Website: www.iri.org.hk</p><p>Remark: Donated items are sold at a low-price and proceeds go to grassroots workers and low-income families. Free pick-up - just call ahead.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157948,22.33658</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Federation of Handicapped Youth</name>
+      <styleUrl>#dispose_org_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Hong Kong Federation of Handicapped Youth</p><p> Address: G/F 16-21 Wang Kee House Wang Tau Hom Estate Wong Tai Sin</p><p>Phone: 2388 5111</p><p>Website: www.hkfhy.org.hk</p><p>Remark: Second-hand clothing will go to help young people with disabilities. Drop clothes off at the Federations address.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157948,22.33658</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Federation of Handicapped Youth</name>
+      <styleUrl>#dispose_org_books</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Hong Kong Federation of Handicapped Youth</p><p> Address: G/F 16-21 Wang Kee House Wang Tau Hom Estate Wong Tai Sin</p><p>Phone: 2388 5111</p><p>Website: www.hkfhy.org.hk</p><p>Remark: Second-hand books will go to help young people with disabilities. Drop clothes off at the Federations address.</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157948,22.33658</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Equity Recycle Limited</name>
+      <styleUrl>#dispose_company_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Equity Recycle Limited</p><p>Address: 12/F- Grand Building- 15-18 Connaught Road- Central</p><p>Phone: 27996933/61917924</p><p>E-mail: equityrecycle@gmail.com</p><p>Contact:Mr. Lo</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157608,22.283003</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>HK Recycles Limited</name>
+      <styleUrl>#dispose_company_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>HK Recycles Limited</p><p>Address: 27/F- Workington Tower- 78 Bonham Strand- Central</p><p>Phone: 56424201</p><p>E-mail: contact@hkrecycles.com</p><p>Contact: Mr. Mak</p><p>website: www.hkrecycles.com</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.150648,22.285969</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>May Luen Cleaning Limited</name>
+      <styleUrl>#dispose_company_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>May Luen Cleaning Limited</p><p>Address: G/F- Shop 5-7- Phase 2- Kwan Yick Building- 343 Des Voeux Road West- Sai Wan</p><p>Phone: 25765654</p><p>E-mail: info@mayluen.com</p><p>Contact: Ms. Lui</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.137886,22.287647</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Assemblies of God West Point Church</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Address: Shop 1 G/F and 1/F - Harbour View Garden Tower 3 - 2 Catchick St.- West Point</p><p>Phone: 2818 8057</p><p>Time: Tue-Sun (10:00am - 6:00pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.129174,22.283269</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central District Kai Fong Welfare Association Ltd.</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Central District Kai Fong Welfare Association Ltd.</p><p>Address: 1 Gough Street- Central</p><p>Phone: 25456393/ 28512986</p><p>Time: Mon-Fri (9:00am - 6:00pm); Sat (9:00am - 1:00pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152895,22.284133</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Baptist Church Good Neighbour Chapel</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Hong Kong Baptist Church Good Neighbour Chapel</p><p>Address: 2/F- 15 Hill Road- Wester District</p><p>Phone: 25407263</p><p>Time: Tue-Fri (9:30am - 6:00pm); Sat (9:00am - 10:00pm); Sun (9:00am - 3:30pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.135246,22.286218</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Young Womens Christian Association</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Hong Kong Young Womens Christian Association</p><p>Address: Flat A- 1/F- Block 1- Centenary Mansion- 9-15 Victoria Road- Sai Wan</p><p>Phone: 2818 8356</p><p>Time: Tue-Sat (9:30am - 10:00pm); Sun (9:00am - 1:00pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.125826,22.281909</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>St. James Settlement</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>St. James Settlement</p><p>Address: St. James Settlement Central and Western District Elderly Community Centre - 11/F- Sheung Wan Complex- 345 Queens Road Central- Sheung Wan</p><p>Phone: 2795 7038</p><p>Fax: 2795 7018</p><p>E-mail: weeegogreen@sjs.org.hk</p><p>Time: Mon-Sat (9:00am - 5:00pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149666,22.285969</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>St. James Settlement</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>St. James Settlement</p><p>Address: St. James Settlement - Belcher Kindergarten / Child Care Centre - 2/F Podium- The Westwood- 8 Belcher Street- Sai Wan</p><p>Phone: 2795 7038</p><p>Fax: 2795 7018</p><p>E-mail: weeegogreen@sjs.org.hk</p><p>Time: Mon-Sat (9:00am - 5:00pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.133181,22.28482</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Conservancy Association</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Address: The Conservancy Association Centre for Heritage</p><p>Annex Block- 36A Western Street- Sai Ying Pun</p><p>Phone: 2291 0238</p><p>Fax: 2795 7018</p><p>Time: Tue-Sat (10:00am - 6:00pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.140879,22.286009</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>The Neighbourhood Advice-action Council</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>The Neighbourhood Advice-action Council</p><p>Address: The Neighbourhood Advice-Action Council - Nga Yin Association Neighbourhood Elderly Centre - 1/F- Lung Cheung Garden- 26 Kennedy Town Praya</p><p>Phone: 28198727</p><p>Time: Mon to Sat (9:00am - 5:00pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.131537,22.284937</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Oxfam Hong Kong</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Oxfam Hong Kong</p><p>Address: Oxfam Hong Kong - Hong Kong Collection Centre - LG 8- Jardine House- 1 Connaught Place- Central</p><p>Phone: 25221765</p><p>Fax: 2527 6213</p><p>E-mail: info@oxfam.org.hk</p><p>Time: Mon-Fri (10:00am - 5:00pm)- Sat (10:00am - 2:00pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159029,22.282837</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Salvation Army</name>
+      <styleUrl>#dispose_org_glass</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[<p>Salvation Army</p><p>Address: Salvation Army - Salvation Army Family Store - Shop A2- G/F- Man Kwong Court- 12F-12G Smithfield Road- Kennedy Town- Western District</p><p>Phone: 2974 882/ 23324433</p><p>Fax: 2332 4411</p><p>E-mail: recycling@hkt.salvationarmy.org</p><p>Time: Mon-Sat (10:30am-8:30pm)- Sun (2:00pm-8:30pm)</p>]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.128479,22.282182</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Belcher Bay Park- 38 Kennedy Town Praya- Sai Wan</name>
+      <styleUrl>#dispose_bin_clothing </styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.130611,22.284711</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Caine Road Garden at the junction between Caine Road and Seymour Road (near the pavilion)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147729,22.28345</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central-Mid-Levels Escalators (near the Exit at Robinson Road)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.150867,22.279953</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central-Mid-Levels Escalators (opposite to Vantage Park- 22 Conduit Road)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.150696,22.279626</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hollywood Road Park- 263 Hollywood Road- Sheung Wan (near the public toilet)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147512,22.286096</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kennedy Town Community Complex- 12 Rock Hill Road- Sai Wan</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.129058,22.281867</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>King George V Memorial Park- Sheung Wan (near the entrance at Hospital Road)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144562,22.285997</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kwan Yick Building Phase I- 430-440 Des Voeux Road West (inside the mall)- Sai Wan</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.134476,22.286905</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kwong Hon Terrance Garden- 48-50 Aberdeen Street- Sheung Wan (near the Wellcome Supermarket at 99 Caine Road)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151541,22.282524</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Passage between The University of Hong Kong Lady Ho Tung Hall and Starr Hall (opposite to the restaurant)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.133103,22.283979</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Promenade outside Kennedy Town Temporary Recreational Ground- Sai Ning Street- Sai Wan</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.120454,22.281966</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sai Ying Pun Community Complex- 2 High Street- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144237,22.285034</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sitting-out Area at the junction between Water Street and Connaught Road West (opposite to the Gas Station)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.13861,22.288483</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Western District Community Centre- 36A Western Street- Sai Ying Pun (near the entrance at Third Street)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.140753,22.285786</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Western Fire Services Street- Sheung Wan (the promenade outside Central Sewage Screening Plant)</name>
+      <styleUrl>#dispose_bin_clothing</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148062,22.289838</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Harlech Road - the Peak</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.141247,22.272934</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pinewood Battery - Hatton Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.137818,22.276091</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pok Fu Lam Reservoir Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.142749,22.267056</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Queensway Government Offices</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163923,22.277878</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Harbour Building</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154975,22.286754</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Government Pier</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.155672,22.28859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Murray Road Multi-storey Carpark Building</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16226,22.280211</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Western Magistracy</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.171656,22.279983</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Government Offices</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165403,22.280996</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Collection Point at Hong Kong Park (near Supreme Court Road)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.164,22.277263</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Park Sports Centre- 29 Cotton Tree Drive</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159257,22.27762</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>RCP of Hong Kong Zoological and Botanical Gardens- Albany Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159107,22.280043</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Pier Waterfront (near Pier 9)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.162583,22.286118</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Statue Square Gardens</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159901,22.280777</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Chater Garden</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161038,22.281115</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong City Hall </name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161854,22.283061</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kwong Hon Terrace Garden</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151683,22.282683</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Visual Arts Centre- 7A Kennedy Road- Central- HK.</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159386,22.276746</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kennedy Town Swimming Pool- 2 Sai Cheung Street North- Kennedy Town </name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.131234,22.285999</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Belcher Bay Park- Kennedy Town Praya</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.130504,22.284828</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>King George V Memorial Park- Eastern Street- Hong Kong</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144602,22.285721</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Shek Tong Tsui Sports Centre- 5/F- 470 Queens Road West</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.136233,22.285701</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park Sports Centre- G/F and 2/F- 18 Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.143529,22.290089</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sheung Wan Sports Centre- 12/F- 345 Queens Road Central</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149687,22.286118</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Smithfield Road Sports Centre- 5/F- 12K Smithfield Road- Kennedy Town </name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.128551,22.282902</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kennedy Road Playground</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156318,22.276548</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Park- 19 Cotton Tree Drive</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16091,22.277739</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park- Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144065,22.290188</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park Swimming Pool- 16 Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144559,22.28999</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>C and W District Promenade - Sheung Wan Section- Chung Kong Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.289225</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Tamar Park- Harcourt Road- Admiralty- Hong Kong</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165738,22.281313</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sheung Wan Civic Centre</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149505,22.286059</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>No. 78 Mount Kellett Road near Homestead Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148722,22.263859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Gage Street RCP</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148722,22.263859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Central MTR Station exit C at 18 Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158077,22.282048</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Shing Wong Street RCP (junction of Shing Wong Street and Bridges Street)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151039,22.283478</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement outside 10-10A Borrett Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163249,22.274542</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Hollywood Road and Aberdeen Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152477,22.283378</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Standard Chartered Bank at 5 Queens Road Central</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158506,22.28036</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Central Government Offices- junction of Queens Road Central and Ice House Sreet</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157863,22.280182</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Sheung Wan MTR Station exit A1 at 242 Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152606,22.286297</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Peak Road and Findlay Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.271087</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside High Court at Queensway</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163764,22.278593</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Bus stop at junction of Peak Road and Plunketts Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15046,22.269538</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Des Voeux Road Central near entrance of Central Market</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15584,22.284297</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Shelly Street and Mosque Street (near the escalator)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151372,22.2803011</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Guildford Road and Watford Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161232,22.265805</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Elgin Street and Shelley Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152541,22.281452</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Caine Road and Ladder Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148936,22.283219</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside World Wide House at Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157498,22.282564</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Man Yiu Street near General Post Office</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159177,22.28385</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>11 May Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152927,22.273708</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Robinson Road and Mosque Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152734,22.279348</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 52 Robinson Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.150975,22.279745</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>64 Robinson Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149644,22.281174</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Lyndhurst Terrace and Graham Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153056,22.282604</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>34-36 Caine Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153142,22.280281</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>99 Caine Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151425,22.282485</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>99 Robinson Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147155,22.282187</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>5A MacDonnell Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156253,22.275972</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>50A MacDonnell Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158807,22.275158</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>10 Kennedy Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157219,22.276607</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 30 Kennedy Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159236,22.276171</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>33 Conduit Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.1487,22.28036</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>62 Conduit Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.145868,22.282564</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>8A Old Peak Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154429,22.27627</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>6B Bowen Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161017,22.274781</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>8A Bowen Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161725,22.274145</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>10 Tregunter Path</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153249,22.273053</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Exit of the basement of Lan Kwai Fong RCP</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.155835,22.281204</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Open space between Statue Square and Prince Building</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15782,22.280469</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Macau Ferry Pier</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151812,22.288898</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Outlying Ferry Pier No. 7</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160094,22.287051</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>At side of Star Ferry Concourse</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161532,22.286456</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>At side of Peak Tram Station- Garden Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159064,22.277938</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>78-80 Macdonnell Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160502,22.275476</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Cochrane Street and Queens Road Central near Central Escalator Link</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154902,22.283676</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Peak Road and Harlech Road (opposite to Peak Galleria)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.271226</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Between 7 Bowen Road and Fairlane Tower</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160652,22.274185</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Admiralty MTR Station Exit at Queensway Plaza (Near Bus Terminus)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.164407,22.279248</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Supreme Court Road- outside Hong Kong Park</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163849,22.277124</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Ice House Street and Chater Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158914,22.281691</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Outlying Ferry Pier No.4- Man Kwong Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158227,22.287429</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposition to No.9 Seymour Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15076,22.280896</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement between No.11B and No.12 Borrett Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163613,22.274125</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Podium at Junction of Wing Lok Street and Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154086,22.285741</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Zetland Street and Queens Road Central</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157197,22.281075</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Outlying Ferry Pier No.3</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157541,22.287945</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Footbridge connected Vicwood Plaza and Shun Tak Centre (near Government Pier)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153657,22.287548</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Footbridge at Connaught Road Central (near Harbour Building)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154708,22.286356</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Man Kat Street RCP (next to the escalator)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156227,22.285721</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement opposite No.8 Mt Austin Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.14767,22.272259</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Wellington Street and Queens Road Central</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15297,22.285081</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in between Central Pier No. 5 and 6</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159708,22.28723</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of Central Pier No. 8</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.162111,22.286833</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of Man Yiu Street Public Toilet</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160867,22.286198</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Connaught Road Central Footbridge (near IFC)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156371,22.285076</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Rodney Street and Queensway</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165716,22.278255</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement at No. 37 Conduit Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147971,22.280698</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of No. 3 Conduit Road- Botanic Terrace</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152155,22.278394</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Caine Road and Shelly Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152305,22.281055</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of One Pacific Place (near bus stop)</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165394,22.277938</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Rozario Street and Tank Lane</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149001,22.283875</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement outside 1A Robinson Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15473,22.276746</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of 39 Bridges Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149945,22.283994</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 28 Gough Hill Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156339,22.267136</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Guildford Road and Mansfield Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16224,22.266977</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>15 Magazine Gap Road</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161103,22.272855</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside New Sai Ying Pun Market- Third Street</name>
+      <styleUrl>#dispose_bin_paper</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.140739,22.28584</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Harlech Road - the Peak</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.141247,22.272934</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pinewood Battery - Hatton Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.137818,22.276091</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pok Fu Lam Reservoir Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.142749,22.267056</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Queensway Government Offices</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163923,22.277878</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Harbour Building</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154975,22.286754</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Government Pier</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.155672,22.28859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Murray Road Multi-storey Carpark Building</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16226,22.280211</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Western Magistracy</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.171656,22.279983</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Government Offices</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165403,22.280996</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Collection Point at Hong Kong Park (near Supreme Court Road)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.164,22.277263</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Park Sports Centre- 29 Cotton Tree Drive</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159257,22.27762</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>RCP of Hong Kong Zoological and Botanical Gardens- Albany Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159107,22.280043</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Pier Waterfront (near Pier 9)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.162583,22.286118</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Statue Square Gardens</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159901,22.280777</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Chater Garden</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161038,22.281115</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong City Hall </name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161854,22.283061</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kwong Hon Terrace Garden</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151683,22.282683</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Visual Arts Centre- 7A Kennedy Road- Central- HK.</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159386,22.276746</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kennedy Town Swimming Pool- 2 Sai Cheung Street North- Kennedy Town </name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.131234,22.285999</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Belcher Bay Park- Kennedy Town Praya</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.130504,22.284828</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>King George V Memorial Park- Eastern Street- Hong Kong</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144602,22.285721</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Shek Tong Tsui Sports Centre- 5/F- 470 Queens Road West</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.136233,22.285701</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park Sports Centre- G/F and 2/F- 18 Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.143529,22.290089</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sheung Wan Sports Centre- 12/F- 345 Queens Road Central</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149687,22.286118</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Smithfield Road Sports Centre- 5/F- 12K Smithfield Road- Kennedy Town </name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.128551,22.282902</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kennedy Road Playground</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156318,22.276548</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Park- 19 Cotton Tree Drive</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16091,22.277739</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park- Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144065,22.290188</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park Swimming Pool- 16 Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144559,22.28999</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>C and W District Promenade - Sheung Wan Section- Chung Kong Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.289225</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Tamar Park- Harcourt Road- Admiralty- Hong Kong</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165738,22.281313</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sheung Wan Civic Centre</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149505,22.286059</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>No. 78 Mount Kellett Road near Homestead Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148722,22.263859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Gage Street RCP</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148722,22.263859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Central MTR Station exit C at 18 Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158077,22.282048</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Shing Wong Street RCP (junction of Shing Wong Street and Bridges Street)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151039,22.283478</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement outside 10-10A Borrett Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163249,22.274542</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Hollywood Road and Aberdeen Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152477,22.283378</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Standard Chartered Bank at 5 Queens Road Central</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158506,22.28036</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Central Government Offices- junction of Queens Road Central and Ice House Sreet</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157863,22.280182</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Sheung Wan MTR Station exit A1 at 242 Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152606,22.286297</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Peak Road and Findlay Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.271087</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside High Court at Queensway</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163764,22.278593</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Bus stop at junction of Peak Road and Plunketts Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15046,22.269538</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Des Voeux Road Central near entrance of Central Market</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15584,22.284297</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Shelly Street and Mosque Street (near the escalator)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151372,22.2803011</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Guildford Road and Watford Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161232,22.265805</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Elgin Street and Shelley Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152541,22.281452</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Caine Road and Ladder Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148936,22.283219</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside World Wide House at Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157498,22.282564</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Man Yiu Street near General Post Office</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159177,22.28385</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>11 May Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152927,22.273708</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Robinson Road and Mosque Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152734,22.279348</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 52 Robinson Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.150975,22.279745</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>64 Robinson Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149644,22.281174</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Lyndhurst Terrace and Graham Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153056,22.282604</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>34-36 Caine Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153142,22.280281</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>99 Caine Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151425,22.282485</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>99 Robinson Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147155,22.282187</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>5A MacDonnell Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156253,22.275972</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>50A MacDonnell Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158807,22.275158</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>10 Kennedy Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157219,22.276607</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 30 Kennedy Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159236,22.276171</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>33 Conduit Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.1487,22.28036</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>62 Conduit Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.145868,22.282564</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>8A Old Peak Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154429,22.27627</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>6B Bowen Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161017,22.274781</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>8A Bowen Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161725,22.274145</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>10 Tregunter Path</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153249,22.273053</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Exit of the basement of Lan Kwai Fong RCP</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.155835,22.281204</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Open space between Statue Square and Prince Building</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15782,22.280469</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Macau Ferry Pier</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151812,22.288898</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Outlying Ferry Pier No. 7</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160094,22.287051</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>At side of Star Ferry Concourse</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161532,22.286456</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>At side of Peak Tram Station- Garden Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159064,22.277938</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>78-80 Macdonnell Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160502,22.275476</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Cochrane Street and Queens Road Central near Central Escalator Link</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154902,22.283676</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Peak Road and Harlech Road (opposite to Peak Galleria)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.271226</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Between 7 Bowen Road and Fairlane Tower</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160652,22.274185</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Admiralty MTR Station Exit at Queensway Plaza (Near Bus Terminus)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.164407,22.279248</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Supreme Court Road- outside Hong Kong Park</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163849,22.277124</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Ice House Street and Chater Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158914,22.281691</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Outlying Ferry Pier No.4- Man Kwong Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158227,22.287429</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposition to No.9 Seymour Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15076,22.280896</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement between No.11B and No.12 Borrett Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163613,22.274125</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Podium at Junction of Wing Lok Street and Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154086,22.285741</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Zetland Street and Queens Road Central</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157197,22.281075</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Outlying Ferry Pier No.3</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157541,22.287945</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Footbridge connected Vicwood Plaza and Shun Tak Centre (near Government Pier)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153657,22.287548</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Footbridge at Connaught Road Central (near Harbour Building)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154708,22.286356</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Man Kat Street RCP (next to the escalator)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156227,22.285721</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement opposite No.8 Mt Austin Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.14767,22.272259</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Wellington Street and Queens Road Central</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15297,22.285081</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in between Central Pier No. 5 and 6</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159708,22.28723</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of Central Pier No. 8</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.162111,22.286833</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of Man Yiu Street Public Toilet</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160867,22.286198</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Connaught Road Central Footbridge (near IFC)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156371,22.285076</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Rodney Street and Queensway</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165716,22.278255</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement at No. 37 Conduit Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147971,22.280698</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of No. 3 Conduit Road- Botanic Terrace</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152155,22.278394</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Caine Road and Shelly Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152305,22.281055</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of One Pacific Place (near bus stop)</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165394,22.277938</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Rozario Street and Tank Lane</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149001,22.283875</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement outside 1A Robinson Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15473,22.276746</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of 39 Bridges Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149945,22.283994</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 28 Gough Hill Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156339,22.267136</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Guildford Road and Mansfield Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16224,22.266977</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>15 Magazine Gap Road</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161103,22.272855</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside New Sai Ying Pun Market- Third Street</name>
+      <styleUrl>#dispose_bin_metal</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.140739,22.28584</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Harlech Road - the Peak</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.141247,22.272934</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pinewood Battery - Hatton Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.137818,22.276091</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pok Fu Lam Reservoir Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.142749,22.267056</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Queensway Government Offices</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163923,22.277878</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Harbour Building</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154975,22.286754</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Government Pier</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.155672,22.28859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Murray Road Multi-storey Carpark Building</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16226,22.280211</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Western Magistracy</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.171656,22.279983</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Government Offices</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165403,22.280996</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Collection Point at Hong Kong Park (near Supreme Court Road)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.164,22.277263</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Park Sports Centre- 29 Cotton Tree Drive</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159257,22.27762</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>RCP of Hong Kong Zoological and Botanical Gardens- Albany Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159107,22.280043</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Central Pier Waterfront (near Pier 9)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.162583,22.286118</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Statue Square Gardens</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159901,22.280777</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Chater Garden</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161038,22.281115</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong City Hall </name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161854,22.283061</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kwong Hon Terrace Garden</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151683,22.282683</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Visual Arts Centre- 7A Kennedy Road- Central- HK.</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159386,22.276746</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kennedy Town Swimming Pool- 2 Sai Cheung Street North- Kennedy Town </name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.131234,22.285999</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Belcher Bay Park- Kennedy Town Praya</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.130504,22.284828</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>King George V Memorial Park- Eastern Street- Hong Kong</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144602,22.285721</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Shek Tong Tsui Sports Centre- 5/F- 470 Queens Road West</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.136233,22.285701</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park Sports Centre- G/F and 2/F- 18 Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.143529,22.290089</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sheung Wan Sports Centre- 12/F- 345 Queens Road Central</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149687,22.286118</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Smithfield Road Sports Centre- 5/F- 12K Smithfield Road- Kennedy Town </name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.128551,22.282902</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Kennedy Road Playground</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156318,22.276548</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Hong Kong Park- 19 Cotton Tree Drive</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16091,22.277739</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park- Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144065,22.290188</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sun Yat Sen Memorial Park Swimming Pool- 16 Eastern Street North- Sai Ying Pun</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.144559,22.28999</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>C and W District Promenade - Sheung Wan Section- Chung Kong Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.289225</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Tamar Park- Harcourt Road- Admiralty- Hong Kong</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165738,22.281313</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Sheung Wan Civic Centre</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149505,22.286059</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>No. 78 Mount Kellett Road  near Homestead Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148722,22.263859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Gage Street RCP</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148722,22.263859</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Central MTR Station exit C at 18 Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158077,22.282048</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Shing Wong Street RCP (junction of Shing Wong Street and Bridges Street)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151039,22.283478</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement outside 10-10A Borrett Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163249,22.274542</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Hollywood Road and Aberdeen Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152477,22.283378</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Standard Chartered Bank at 5 Queens Road Central</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158506,22.28036</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Central Government Offices- junction of Queens Road Central and Ice House Sreet</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157863,22.280182</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Sheung Wan MTR Station exit A1 at 242 Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152606,22.286297</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Peak Road and Findlay Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.271087</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside High Court at Queensway</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163764,22.278593</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Bus stop at junction of Peak Road and Plunketts Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15046,22.269538</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Des Voeux Road Central near entrance of Central Market</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15584,22.284297</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Shelly Street and Mosque Street (near the escalator)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151372,22.2803011</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Guildford Road and Watford Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161232,22.265805</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Elgin Street and Shelley Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152541,22.281452</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Caine Road and Ladder Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.148936,22.283219</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside World Wide House at Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157498,22.282564</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Man Yiu Street near General Post Office</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159177,22.28385</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>11 May Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152927,22.273708</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Robinson Road and Mosque Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152734,22.279348</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 52 Robinson Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.150975,22.279745</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>64 Robinson Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149644,22.281174</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Lyndhurst Terrace and Graham Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153056,22.282604</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>34-36 Caine Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153142,22.280281</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>99 Caine Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151425,22.282485</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>99 Robinson Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147155,22.282187</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>5A MacDonnell Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156253,22.275972</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>50A MacDonnell Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158807,22.275158</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>10 Kennedy Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157219,22.276607</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 30 Kennedy Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159236,22.276171</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>33 Conduit Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.1487,22.28036</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>62 Conduit Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.145868,22.282564</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>8A Old Peak Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154429,22.27627</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>6B Bowen Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161017,22.274781</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>8A Bowen Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161725,22.274145</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>10 Tregunter Path</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153249,22.273053</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Exit of the basement of Lan Kwai Fong RCP</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.155835,22.281204</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Open space between Statue Square and Prince Building</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15782,22.280469</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Macau Ferry Pier</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.151812,22.288898</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Outlying Ferry Pier No. 7</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160094,22.287051</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>At side of Star Ferry Concourse</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161532,22.286456</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>At side of Peak Tram Station- Garden Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159064,22.277938</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>78-80 Macdonnell Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160502,22.275476</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Cochrane Street and Queens Road Central near Central Escalator Link</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154902,22.283676</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Peak Road and Harlech Road (opposite to Peak Galleria)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149601,22.271226</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Between 7 Bowen Road and Fairlane Tower</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160652,22.274185</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Admiralty MTR Station Exit at Queensway Plaza (Near Bus Terminus)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.164407,22.279248</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Supreme Court Road- outside Hong Kong Park</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163849,22.277124</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Ice House Street and Chater Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158914,22.281691</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside Outlying Ferry Pier No.4- Man Kwong Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.158227,22.287429</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposition to No.9 Seymour Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15076,22.280896</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement between No.11B and No.12 Borrett Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.163613,22.274125</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Podium at Junction of Wing Lok Street and Des Voeux Road Central</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154086,22.285741</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Zetland Street and Queens Road Central</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157197,22.281075</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>In front of Outlying Ferry Pier No.3</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.157541,22.287945</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Footbridge connected Vicwood Plaza and Shun Tak Centre (near Government Pier)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.153657,22.287548</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Footbridge at Connaught Road Central (near Harbour Building)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.154708,22.286356</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Man Kat Street RCP (next to the escalator)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156227,22.285721</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement opposite No.8 Mt Austin Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.14767,22.272259</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Wellington Street and Queens Road Central</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15297,22.285081</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in between Central Pier No. 5 and 6</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.159708,22.28723</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of Central Pier No. 8</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.162111,22.286833</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of Man Yiu Street Public Toilet</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.160867,22.286198</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Connaught Road Central Footbridge (near IFC)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156371,22.285076</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Rodney Street and Queensway</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165716,22.278255</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement at No. 37 Conduit Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.147971,22.280698</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of No. 3 Conduit Road- Botanic Terrace</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152155,22.278394</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Caine Road and Shelly Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.152305,22.281055</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of One Pacific Place (near bus stop)</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.165394,22.277938</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Rozario Street and Tank Lane</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149001,22.283875</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement outside 1A Robinson Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.15473,22.276746</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Pavement in front of 39 Bridges Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.149945,22.283994</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Opposite to 28 Gough Hill Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.156339,22.267136</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Junction of Guildford Road and Mansfield Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.16224,22.266977</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>15 Magazine Gap Road</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.161103,22.272855</coordinates>
+      </Point>
+    </Placemark>
+        
+    <Placemark>
+      <name>Outside New Sai Ying Pun Market- Third Street</name>
+      <styleUrl>#dispose_bin_plastic</styleUrl>
+      <ExtendedData>
+        <Data name="info">
+          <value>
+            <![CDATA[]]> 
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>114.140739,22.28584</coordinates>
+      </Point>
+    </Placemark>
+        
+  </Document>
+</kml>

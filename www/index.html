@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<!--
+    Licensed to the Apache Software Foundation (ASF) under one
+    or more contributor license agreements.  See the NOTICE file
+    distributed with this work for additional information
+    regarding copyright ownership.  The ASF licenses this file
+    to you under the Apache License, Version 2.0 (the
+    "License"); you may not use this file except in compliance
+    with the License.  You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing,
+    software distributed under the License is distributed on an
+    "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+     KIND, either express or implied.  See the License for the
+    specific language governing permissions and limitations
+    under the License.
+-->
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />
+        <link rel="stylesheet" type="text/css" href="css/index.css" />
+        <title>GreenMap</title>
+
+        <link href="styles/kendo.mobile.all.min.css" rel="stylesheet" />
+        <style>
+            #map_canvas {
+                width: 320x;
+                height: 420px;
+            }
+        </style>
+    
+    </head>
+    <body>
+        <div data-role="view" data-title="View" id="index">
+            <!--
+            <header data-role="header">
+                <div data-role="navbar">
+                    <span data-role="view-title"></span>
+                </div>
+            </header>
+            -->
+            <div id="map_canvas"></div>
+
+            <footer data-role="footer">
+                <a data-role="button" href="#report" data-rel="modalview" data-align="right">How Eco Convenient is here?</a><br />
+                <a data-role="button" href="#report" data-rel="modalview" data-align="right">x</a>
+            </footer>
+        </div>
+
+        <div data-role="modalview" id="report" style="width: 95%; height: 18em;">
+            <div data-role="header">
+                <div data-role="navbar">
+                    <span>Closest</span>
+                    <a data-click="closeModal" data-role="button" data-align="right">x</a>
+                </div>
+            </div>
+            <ul data-role="listview" data-style="inset">
+                <li>Recycle bin: 10min<br/>food bin: 30min</br>cloth bin: 15min</br>2nd Hand Store: 20min<br/></li>
+                <li>EcoScore: 8/10</li>
+            </ul>
+        </div>
+        
+        
+        <script src="js/cordova-2.7.0.js"></script>
+        <script src="js/jquery.min.js"></script>
+        <script src="js/kendo.mobile.min.js"></script>
+        <script src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
+        <script type="text/javascript">
+            var app = new kendo.mobile.Application();
+
+            function closeModal() {
+                var modalView = $("#report").data("kendoMobileModalView");
+                modalView.close();
+            }
+            
+            var map;
+            var src = 'https://dl.dropboxusercontent.com/u/14106269/greenmaphk.kml';
+            //var src = 'https://developers.google.com/kml/training/westcampus.kml';
+            /**
+             * Initializes the map and calls the function that creates polylines.
+             */
+            function initialize() {
+                map = new google.maps.Map(document.getElementById('map_canvas'), {
+                                          center: new google.maps.LatLng(114.157434,22.282306),
+                                          zoom: 2,
+                                          mapTypeId: google.maps.MapTypeId.TERRAIN
+                                          });
+                loadKmlLayer(src, map);
+            }
+            
+            /**
+             * Adds a KMLLayer based on the URL passed. Clicking on a marker
+             * results in the balloon content being loaded into the right-hand div.
+             * @param {string} src A URL for a KML file.
+             */
+            function loadKmlLayer(src, map) {
+                var kmlLayer = new google.maps.KmlLayer(src, {
+                                                        suppressInfoWindows: false,
+                                                        preserveViewport: false,
+                                                        map: map
+                                                        });
+            }
+            google.maps.event.addDomListener(window, 'load', initialize);
+         </script>
+    </body>
+</html>
+
+
+
+
+</head>
+<body>
+    <div id="map_canvas"></div>
+</body>
